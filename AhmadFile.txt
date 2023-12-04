@@ -1,2 +1,3 @@
 Adding Ahmad Feature
 Finalize Ahmad's feature for v2.0
+Fixxing the bug

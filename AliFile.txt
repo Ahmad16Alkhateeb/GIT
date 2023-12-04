@@ -1,1 +1,2 @@
 Add Ali's feature
+Fixxing the bug
